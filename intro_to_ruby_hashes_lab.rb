@@ -18,8 +18,9 @@ def monopoly_with_third_tier
         :one => nil,
         :two => nil,
         :three => nil,
-        :names => nil
-      }
+        :four => nil
+      },
+      :names => nil
     }
   }
 end
